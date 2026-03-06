@@ -24,8 +24,6 @@
 
 ![Epoch](https://img.shields.io/badge/E-Epoch-%231AABA8?style=for-the-badge&labelColor=white)
 
-![](https://img.shields.io/badge/AT-Atech%20aTester-%2381D8CF?style=for-the-badge&labelColor=white)
-
 ![Uni Mold](https://img.shields.io/badge/UM-Uni%20Mold-%2339C5BB?style=for-the-badge&labelColor=white)
 
 ![Hapes](https://img.shields.io/badge/HP-Hapes-%23FFC824?style=for-the-badge&labelColor=white)
